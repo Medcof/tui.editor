@@ -1,7 +1,10 @@
 {
-  "name": "@toast-ui/editor",
+  "name": "@medcof-toast-ui/editor",
   "version": "3.2.2",
   "description": "GFM  Markdown Wysiwyg Editor - Productive and Extensible",
+  "publishConfig": {
+    "Medcof:registry": "https://npm.pkg.github.com"
+  },
   "keywords": [
     "nhn",
     "nhn cloud",
@@ -52,13 +55,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nhn/tui.editor.git",
-    "directory": "apps/editor"
+    "url": "https://github.com/Medcof/tui.editor.git"
   },
   "bugs": {
-    "url": "https://github.com/nhn/tui.editor/issues"
+    "url": "https://github.com/Medcof/tui.editor/issues"
   },
-  "homepage": "https://ui.toast.com",
   "browserslist": "last 2 versions, not ie <= 10",
   "scripts": {
     "lint": "eslint .",
