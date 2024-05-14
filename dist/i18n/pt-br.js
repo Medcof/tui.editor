@@ -153,6 +153,11 @@ _editorCore__WEBPACK_IMPORTED_MODULE_0___default().setLanguage(['pt', 'pt-BR'], 
     'Auto scroll enabled': 'Rolagem automática habilitada',
     'Auto scroll disabled': 'Rolagem automática desabilitada',
     'Choose language': 'Escolher linguagem',
+    'Merge cells': 'Mesclar células',
+    'Split cells': 'Separar células',
+    'Cannot change part of merged cell': 'Não é possível alterar parte da célula mesclada.',
+    'Cannot paste row merged cells into the table header':
+      'Não é possível colar células mescladas de linha no cabeçalho da tabela.',
 });
 
 }();
