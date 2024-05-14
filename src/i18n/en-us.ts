@@ -53,4 +53,9 @@ Editor.setLanguage(['en', 'en-US'], {
   'Auto scroll enabled': 'Auto scroll enabled',
   'Auto scroll disabled': 'Auto scroll disabled',
   'Choose language': 'Choose language',
+  'Merge cells': 'Merge cells',
+  'Split cells': 'Split cells',
+  'Cannot change part of merged cell': 'Cannot change part of merged cell.',
+  'Cannot paste row merged cells into the table header':
+    'Cannot paste row merged cells into the table header.'
 });
